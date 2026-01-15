@@ -28,6 +28,7 @@ EEG-Classification is a machine learning project focused on analyzing and classi
     ```bash
     git clone https://github.com/shashi9170/EEG-Classification.git
     ```
+    
 2. Install required dependencies:
     - You will need Python, Jupyter Notebook, and relevant ML/DL libraries (e.g., scikit-learn, tensorflow/pytorch, numpy, matplotlib, etc.).
 3. Open and run the Jupyter Notebooks in sequence.
